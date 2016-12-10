@@ -1,0 +1,13 @@
+button {
+  font-size: 50px;
+  background-color: pink;
+  border: 2px solid transparent;
+}
+
+.kitty {
+  height: 100%;
+}
+
+img {
+  float: left;
+}
